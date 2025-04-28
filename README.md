@@ -5,7 +5,6 @@ Zapažene greške, prijedloge sam evidentirao, pa krenimo od početka.
 
 
 1. Write test cases for this application:
-
     Test cases se nalaze u fajlu test-cases.md 
 
 2. From all the test cases, identify what you think represents a Smoke Test
