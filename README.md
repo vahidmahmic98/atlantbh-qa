@@ -31,6 +31,8 @@ Test cases se nalaze u fajlu test-cases.md
 
     Također, za ostale testove mijenjamo samo naziv fajla, u ovom slučaju naziv fajla je map-zoom.spec.ts
 
+    Napomena, kod svih testova, na kraju sam dodao pauzu kako bi ostali do kraja i vidjeli da li je sve u redu.
+
 5. Create Github repository and push your assignment solution with the documentation on how to run the automated tests there (focus on writing comprehensive Readme file)
     
     Link od githuba: https://github.com/vahidmahmic98/atlantbh-qa
